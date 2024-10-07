@@ -1,0 +1,12 @@
+{
+  "name": "UPTIME GOAT",
+  "symbol": "TIME",
+  "description": "UPTIME GOAT a DePin project to show who's the best.",
+  "image": "https://raw.githubusercontent.com/1rabbit/uptime_metadata/refs/heads/main/uptime_goat.jpg"
+  "attributes": [
+    {
+     "category": "game",
+     "tags": ["goat", "uptime", "depin"]
+    }
+  ]
+}
